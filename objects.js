@@ -1,4 +1,4 @@
 var playlist = {
-  Michael Buble: 'Home'
-  
+  Michael Buble: 'Home',
+  Frank Sinatra: 'Young at Heart'
 }
