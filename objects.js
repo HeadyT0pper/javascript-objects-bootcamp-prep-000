@@ -6,6 +6,6 @@ function updatePlaylist(obj, key, value) {
   obj[key] = value
   return obj
 }
-function removeFromPlaylist(MichaelBuble: 'Home') {
+function removeFromPlaylist(playlistObject, artistName) {
   delete 
 }
