@@ -3,6 +3,6 @@ var playlist = {
   FrankSinatra: 'Young at Heart'
 }
 function updatePlaylist(obj, key, value) {
-  obj[key]:value 
+  obj[key] = value
 }
   
